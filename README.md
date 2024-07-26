@@ -1,1 +1,1 @@
-Different projects I made from the Coding in Python Book that's all pygame.
+Different projects I made from the Coding in Python Book that's all pygame. I add on to this periodically so be sure to check from time to time for new projects. Of course, this is all just from the book. You'll probably have to install pygame and pygame zero to run these files. I did this through the pip installer.
